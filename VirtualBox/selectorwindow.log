@@ -1,0 +1,19 @@
+00:00:00.775476 VirtualBox GUI VM Selector Window 6.1.28 r147628 linux.amd64 (Oct 18 2021 18:01:18) release log
+00:00:00.775483 Log opened 2022-02-04T13:20:09.048117000Z
+00:00:00.775487 Build Type: release
+00:00:00.775496 OS Product: Linux
+00:00:00.775499 OS Release: 5.15.13
+00:00:00.775502 OS Version: #1-NixOS SMP Wed Jan 5 11:42:40 UTC 2022
+00:00:00.775579 DMI Product Name: ROG Zephyrus G14 GA401QH_GA401QH
+00:00:00.775707 DMI Product Version: 1.0       
+00:00:00.775726 Firmware type: UEFI
+00:00:00.776135 Secure Boot: Disabled
+00:00:00.776235 Host RAM: 15473MB (15.1GB) total, 11491MB (11.2GB) available
+00:00:00.776246 Executable: /nix/store/j4wha1gxqfnharg29ck4jc3f4vikvk93-virtualbox-6.1.28/libexec/virtualbox/VirtualBox
+00:00:00.776248 Process ID: 10171
+00:00:00.776251 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.776342 Qt version: 5.14.2
+00:00:00.926332 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.313066 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 1920x16 x 1916x1044
+00:00:02.330416 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 1 work area is actually resized to: 1920x16 x 1916x1044
+00:00:02.561187 GUI: UIMediumEnumerator: Medium-enumeration finished!

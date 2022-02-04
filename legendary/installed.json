@@ -1,0 +1,29 @@
+{
+  "9d2d0eb64d5c44529cece33fe2a46482": {
+    "app_name": "9d2d0eb64d5c44529cece33fe2a46482",
+    "base_urls": [
+      "https://fastly-download.epicgames.com/Builds/Org/o-dhz7kpvrvqngzdpnx5vn3jrljj53ca/68d2cc08f9a94b8fb51af4f5cfa6d41b/default",
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-dhz7kpvrvqngzdpnx5vn3jrljj53ca/68d2cc08f9a94b8fb51af4f5cfa6d41b/default",
+      "https://download.epicgames.com/Builds/Org/o-dhz7kpvrvqngzdpnx5vn3jrljj53ca/68d2cc08f9a94b8fb51af4f5cfa6d41b/default",
+      "https://download2.epicgames.com/Builds/Org/o-dhz7kpvrvqngzdpnx5vn3jrljj53ca/68d2cc08f9a94b8fb51af4f5cfa6d41b/default",
+      "https://download3.epicgames.com/Builds/Org/o-dhz7kpvrvqngzdpnx5vn3jrljj53ca/68d2cc08f9a94b8fb51af4f5cfa6d41b/default",
+      "https://download4.epicgames.com/Builds/Org/o-dhz7kpvrvqngzdpnx5vn3jrljj53ca/68d2cc08f9a94b8fb51af4f5cfa6d41b/default"
+    ],
+    "can_run_offline": false,
+    "egl_guid": "",
+    "executable": "PlayGTAV.exe",
+    "install_path": "/home/burak/Games/Heroic/GTAV",
+    "install_size": 113009362275,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Grand Theft Auto V",
+    "version": "1.0.2545.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+[2022-02-02 00:05:14.003] [exthost] [info] Extension host with pid 30771 started
+[2022-02-02 00:05:14.003] [exthost] [info] Skipping acquiring lock for /home/burak/.config/Code/User/workspaceStorage/f42f5db423fad40b34837c6fde947ba5.
+[2022-02-02 00:05:14.110] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-02 00:05:14.130] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-02 00:05:14.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-02 00:05:14.173] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-02 00:05:14.191] [exthost] [info] Eager extensions activated
+[2022-02-02 00:05:14.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-02 00:05:14.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-02 00:05:14.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-02 00:08:26.774] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-02 00:08:26.781] [exthost] [info] Extension host with pid 30771 exiting with code 0

@@ -1,0 +1,25 @@
+{
+  "|home|burak|Downloads|YigitTez|TEZ.md" : {
+    "lexer" : "Markdown",
+    "enc" : "UTF-8",
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "3,3,-1,-1,"
+  },
+  "|home|burak|okul|README.md" : {
+    "lexer" : "Markdown",
+    "enc" : "UTF-8",
+    "wrap_mode" : 1,
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "63,0,-1,-1,"
+  },
+  "|home|burak|workspace|encom|amiralbatti|README.md" : {
+    "lexer" : "Markdown",
+    "enc" : "UTF-8",
+    "wrap_mode" : 1,
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "69,15,-1,-1,"
+  }
+}

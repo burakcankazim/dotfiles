@@ -1,0 +1,37 @@
+{
+  "defaultSettings": {
+    "altLegendaryBin": "",
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "audioFix": false,
+    "autoInstallDxvk": false,
+    "checkForUpdatesOnStartup": true,
+    "customWinePaths": [],
+    "darkTrayIcon": false,
+    "defaultInstallPath": "/home/burak/Games/Heroic",
+    "defaultWinePrefix": "/home/burak/Games/Heroic/Prefixes",
+    "discordRPC": false,
+    "egsLinkedPath": "",
+    "enableEsync": false,
+    "enableFsync": false,
+    "exitToTray": false,
+    "language": "en",
+    "maxRecentGames": 5,
+    "maxWorkers": 0,
+    "nvidiaPrime": false,
+    "offlineMode": false,
+    "otherOptions": "",
+    "showFps": false,
+    "showMangohud": false,
+    "showUnrealMarket": false,
+    "startInTray": false,
+    "useGameMode": false,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/burak/.wine",
+    "wineVersion": {
+      "bin": "/run/current-system/sw/bin/wine",
+      "name": "Wine Default - wine-6.0.1"
+    }
+  },
+  "version": "v0"
+}

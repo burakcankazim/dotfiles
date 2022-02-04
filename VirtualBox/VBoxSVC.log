@@ -1,0 +1,52 @@
+00:00:00.000687 main     VirtualBox XPCOM Server 6.1.28 r147628 linux.amd64 (Oct 18 2021 18:01:18) release log
+00:00:00.000698 main     Log opened 2022-02-04T13:20:08.577178000Z
+00:00:00.000701 main     Build Type: release
+00:00:00.000707 main     OS Product: Linux
+00:00:00.000712 main     OS Release: 5.15.13
+00:00:00.000714 main     OS Version: #1-NixOS SMP Wed Jan 5 11:42:40 UTC 2022
+00:00:00.000758 main     DMI Product Name: ROG Zephyrus G14 GA401QH_GA401QH
+00:00:00.000770 main     DMI Product Version: 1.0       
+00:00:00.000778 main     Firmware type: UEFI
+00:00:00.001057 main     Secure Boot: Disabled
+00:00:00.001130 main     Host RAM: 15473MB (15.1GB) total, 11482MB (11.2GB) available
+00:00:00.001136 main     Executable: /nix/store/j4wha1gxqfnharg29ck4jc3f4vikvk93-virtualbox-6.1.28/libexec/virtualbox/VBoxSVC
+00:00:00.001137 main     Process ID: 10205
+00:00:00.001140 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.004764 main     IPC socket path: /tmp/.vbox-burak-ipc/ipcd
+00:00:00.112814 nspr-2   VirtualBox: object creation starts
+00:00:00.112982 nspr-2   Home directory: '/home/burak/.config/VirtualBox'
+00:00:00.113243 nspr-2   Loading settings file "/home/burak/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.116302 nspr-2   Successfully initialised host USB using sysfs
+00:00:00.125581 nspr-2   Failed to retrive disk info: getDiskName(/dev/mapper/system) --> system
+00:00:00.173791 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.175670 nspr-2   HostDnsMonitor: initializing
+00:00:00.176365 nspr-2   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.176409 nspr-2   NAT: resolv.conf: ignoring "options edns0"
+00:00:00.176439 nspr-2   HostDnsMonitor: updating information
+00:00:00.176491 nspr-2   HostDnsMonitor: old information
+00:00:00.176499 nspr-2     no server entries
+00:00:00.176506 nspr-2     no domain set
+00:00:00.176514 nspr-2     no search string entries
+00:00:00.176521 nspr-2   HostDnsMonitor: new information
+00:00:00.176528 nspr-2     server 1: 192.168.1.1
+00:00:00.176536 nspr-2     domain: home
+00:00:00.176543 nspr-2     search string 1: home
+00:00:00.182305 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.182482 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.192508 nspr-2   Loading settings file "/home/burak/VirtualBox VMs/AnnePro2/AnnePro2.vbox" with version "1.16-linux"
+00:00:00.194849 nspr-2   VirtualBox: object created
+00:00:05.197645 nspr-2   Launched VM: 268444272 pid: 10243 (0x2803) frontend: GUI/Qt name: AnnePro2
+00:00:08.083054 nspr-5   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:00:08.390054 nspr-3   ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:08.528858 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:01:07.654116 nspr-4   Saving settings file "/home/burak/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:07.668496 nspr-2   Saving settings file "/home/burak/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:17.175127 nspr-2   Saving settings file "/home/burak/VirtualBox VMs/AnnePro2/AnnePro2.vbox" with version "1.16-linux"
+00:01:17.219086 nspr-5   Saving settings file "/home/burak/VirtualBox VMs/AnnePro2/AnnePro2.vbox" with version "1.16-linux"
+00:01:22.749428 main     VirtualBox: object deletion starts
+00:01:22.749570 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/burak/VirtualBox VMs/AnnePro2/AnnePro2.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:01:22.750468 main     HostDnsMonitor: shutting down ...
+00:01:22.750805 main     HostDnsMonitor: shut down
+00:01:23.192724 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:27.754575 main     {00007f4d140217c0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:01:27.755106 main     VirtualBox: object deleted

@@ -1,0 +1,31 @@
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/burak/.config/discordcanary/0.0.131/modules
+[Modules] Module installed file path: /home/burak/.config/discordcanary/0.0.131/modules/installed.json
+[Modules] Module download path: /home/burak/.config/discordcanary/0.0.131/modules/pending
+[Modules] Bootstrapping...
+[Modules] Installing discord_desktop_core@0 from /nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_desktop_core.zip
+[Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_desktop_core.zip'
+[Modules] Installing discord_erlpack@0 from /nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_erlpack.zip
+[Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_erlpack.zip'
+[Modules] Installing discord_spellcheck@0 from /nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_spellcheck.zip
+[Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_spellcheck.zip'
+[Modules] Installing discord_utils@0 from /nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_utils.zip
+[Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_utils.zip'
+[Modules] Installing discord_voice@0 from /nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_voice.zip
+[Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/nix/store/rplwzachc68y50a7qkxkx7p3hx1mrpmk-discord-canary-0.0.131/opt/DiscordCanary/resources/bootstrap/discord_voice.zip'
+[Modules] Finished module installations. [success: 0] [failure: 5]
+[Modules] Checking for host updates.
+[Modules] Host update is available. Manual update required!
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/burak/.config/discordcanary/0.0.131/modules
+[Modules] Module installed file path: /home/burak/.config/discordcanary/0.0.131/modules/installed.json
+[Modules] Module download path: /home/burak/.config/discordcanary/0.0.131/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host update is available. Manual update required!

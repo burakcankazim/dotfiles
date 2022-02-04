@@ -1,0 +1,39 @@
+{
+  "groups" : 3,
+  "gr" : {
+    "panel" : "10,30",
+    "pages" : "100,54,100,46,12,30,12,30,12,30,10,30,"
+  },
+  "tab_index" : {
+    "g0" : 0,
+    "g1" : 0,
+    "g2" : 0,
+    "g3" : 0,
+    "g4" : 0,
+    "g5" : 0,
+    "g_active" : 0
+  },
+  "panels" : {
+    "side_show" : false,
+    "side_panel" : "",
+    "side_size" : 200,
+    "bottom_show" : false,
+    "bottom_panel" : "",
+    "bottom_size" : 120
+  },
+  "000" : {
+    "modified" : true,
+    "file" : "~/workspace/encom/amiralbatti/README.md",
+    "tab_title" : "*README.md",
+    "group" : 1,
+    "kind" : "",
+    "text" : "[Presentation link](https://www.youtube.com/watch?v=rGIhDTusfRI)\n\n## Objectives\nThe main objective of this project was creating a playable and enjoyable battleship game. We wanted it to be a modern LAN game and implementing with as much as network technologies possible.\nThe game also had to have chat functionality outside the game. And users should be able to invite players, and invited players should be able to accept or decline any invites they got. \nThe main game part should have run on UDP, and other parts of the game should have run on TCP. And we wanted our game to be as sturdy as possible, in case of connection drops etc.\n## Challenges\nOne of the hardest part of implementing the game was, keeping the synchronization between users. Since we want app to be responsive but do not want any missed packages, we used UDP messages to transfer the moves of one player to other. However to make sure the other player got this package we implemented ACK packages based on TCP. \nAnother big challenge was getting valid inputs from the user, since it is a text based game, users can input so many invalid messages and these can break the game, we tried to implement as many checks as possible to make sure the game does not break by any user input.\n## Implementation\n### Packet Types\n#### Username check packet (type0 - broadcasted on UDP) - Burakcan Kazim Yesil\nThis packet is sent when user opens the application to make sure their username is unique. It is broadcasted to all other users in the network.\n#### Username check response (type7 - TCP) - Burakcan Kazim Yesil\nWhen a username check packet is received, we check if we have another user with this username and return the result.\n#### Discover Packet (type1 - broadcast on UDP) - Fikri Cem Yilmaz333\nAfter passing username check we send a discover package to give our IP and username.\n#### Discover Response (type2 - TCP) - Fikri Cem Yilmaz\nAfter receiving a discover message we return our own name and IP to sender.\n#### Chat message (type3 - TCP) - Fikri Cem Yilmaz\nThis packet contains a body with message and our username.\n#### Invite packet(type8 - TCP) - Burakcan Kazim Yesil\nTo invite a user to a game, a packet with our username get send.\n#### Invite response(type10 - TCP) - Burakcan Kazim Yesil\nThis packet contains our username and a boolean response to the invite.\n#### Move packet(type11 - UDP) - Burakcan Kazim Yesil\nThis packet only gets send in game, and it contains the next move's coordinates and our username.\n#### Move ACK packet (type12 - ACK) - Burakcan Kazim Yesil\nAfter receiving a move we send a packet that contains the move's coordinates and if it hit or not.\n#### Check rival status online (type-1 - TCP) - Fikri Cem Yilmaz\nThis checks while rival is playing their move, it gets send once in every 30 seconds to make sure rival is still online.\n#### Board check (type100 - TCP) - Fikri Cem Yilmaz\nThic packet gets send after user prepares their board. And to start to game both players should send this packet.\n",
+    "file_date" : "2022-01-23_23-51-53",
+    "lexer" : "Markdown",
+    "enc" : "UTF-8",
+    "wrap_mode" : 1,
+    "tab_size" : 4,
+    "tab_spaces" : false,
+    "crt" : "69,15,-1,-1,"
+  }
+}

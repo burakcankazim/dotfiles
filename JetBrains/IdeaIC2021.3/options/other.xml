@@ -1,0 +1,70 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="21OxmjoCZs4ni6dXjk1uCvUK1UO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="23cink8yxF4MY3cgBVMmT1QboLi">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 11.0.13" />
+        <option name="installDir" value="$USER_HOME$/.jdks/corretto-11.0.13" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/corretto-11.0.13" />
+        <option name="sha256" value="99a3a60556db2ad3fd04b1b5ef9e31f035cf1ff3d88286c548b4b58971986452" />
+        <option name="url" value="https://corretto.aws/downloads/latest/amazon-corretto-11-x64-linux-jdk.tar.gz" />
+        <option name="versionText" value="11.0.13" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Source Code Pro Medium" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="12" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CWM_LOGGING_VERSION" value="1" />
+    <property name="FindSplitterProportion" value="0.32998565" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NextRunPlatformUpdateBuild" value="IC-213.6777.52/2021.3.2" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.3.2" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-213.5744.223-1c18f89736a6ec8ac536e5f4e2d0197e94dd54c7944dcf72a0d38ace62a2fe97" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="bundled.plugins.list.saved.version" value="IC-213.5744.223" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.projects.detected" value="" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/tvbss-spring-boot-burak" />
+    <property name="file.gist.reindex.count" value="37" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="gotit.previous.run" value="IC-213.5744.223" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.whats.new.shown.for" value="213" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.5.10-release-949-IJ5744.223" />
+    <property name="last_opened_file_path" value="$USER_HOME$/tvbss-spring-boot-burak" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1643613193759" />
+    <property name="registry.to.advanced.settings.migration.build" value="IC-213.5744.223" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

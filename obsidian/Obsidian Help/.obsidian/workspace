@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "273a12cc65a5f8ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9be7a2d0687e057",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How to/Keyboard shortcuts.md",
+            "mode": "source"
+          }
+        },
+        "group": "293b3dc44890e060"
+      },
+      {
+        "id": "a61f90d1a7705906",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "How to/Keyboard shortcuts.md",
+            "mode": "preview"
+          }
+        },
+        "group": "293b3dc44890e060"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6257c9bd63c85a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "477031cfcc9f401c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef769f56edd39fe0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72c33614bf8d826f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a84b631402e633b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7de74a7d208a117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca5e4cdcb24bd27b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How to/Keyboard shortcuts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e9be7a2d0687e057",
+  "lastOpenFiles": [
+    "How to/Keyboard shortcuts.md",
+    "Start here.md"
+  ]
+}

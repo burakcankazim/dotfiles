@@ -1,0 +1,116 @@
+INFO: [Legendary]: Location: /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary
+INFO: [Backend]: 
+  Heroic Version: 2.1.0 Rayleigh
+  Legendary Version:  0.20.25 Our Benefactors
+  OS: NixOS KERNEL: 5.15.13 ARCH: x64
+  CPU: AMD Ryzen 7 5800HS with Radeon Graphics @1.2 GOVERNOR: powersave
+  RAM: Total: 16.2 GB Available: 10.2 GB
+  GRAPHICS: GPU0: NVIDIA GeForce GTX 1650 VRAM: 3911MB DRIVER: 495.44 GPU1: Cezanne VRAM: 512MB DRIVER:  
+  PROTOCOL: x11
+  
+ERROR: [Backend]: Failed to register protocol with OS.
+WARNING: [Backend]: python command not found
+INFO: [Backend]: Command 'python3' found. Version: '3.9.6'
+INFO: [Frontend]: Refreshing Library
+INFO: [Legendary]: Refreshing library...
+INFO: [Legendary]: Refreshing Epic Games...
+INFO: [Legendary]: Refreshing Epic Games...
+INFO: [Legendary]: [cli] INFO: Logging in...
+[Core] INFO: Logging in...
+
+INFO: [Legendary]: [cli] INFO: Getting game list... (this may take a while)
+
+INFO: [Legendary]: Updating game list
+INFO: [Legendary]: Game List Updated
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps           /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --wine '/home/burak/.config/heroic/tools/wine/wine-lutris-ge-7.1-1-x86_64/bin/wine64' --wine-prefix '/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'  
+INFO: [Backend]: checking for heroic updates
+INFO: [Legendary]: Checking for game updates
+INFO: [Legendary]: Found 0 game(s) to update
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Frontend]: Refreshing Library
+INFO: [Legendary]: Refreshing library...
+INFO: [Legendary]: Refreshing Epic Games...
+INFO: [Legendary]: Refreshing Epic Games...
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+INFO: [Legendary]: [cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+
+INFO: [Legendary]: [cli] INFO: Getting game list... (this may take a while)
+
+INFO: [Legendary]: Updating game list
+INFO: [Legendary]: Game List Updated
+INFO: [Legendary]: Checking for game updates
+INFO: [Legendary]: Found 0 game(s) to update
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+INFO: [Backend]: Log was written to /home/burak/.config/heroic/GamesConfig/9d2d0eb64d5c44529cece33fe2a46482-lastPlay.log
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+ERROR: [Backend]: TypeError - convertToStringArray(...).join is not a function
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+ERROR: [Backend]: TypeError - convertToStringArray(...).join is not a function
+ERROR: [Backend]: TypeError - convertToStringArray(...).join is not a function
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+ERROR: [Backend]: TypeError - convertToStringArray(...).join is not a function
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+ERROR: [Backend]: TypeError - convertToStringArray(...).join is not a function
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+INFO: [Legendary]: killing 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+INFO: [Legendary]: 9d2d0eb64d5c44529cece33fe2a46482 killed
+ERROR: [Backend]: TypeError - convertToStringArray(...).join is not a function
+INFO: [Backend]: launching Grand Theft Auto V 9d2d0eb64d5c44529cece33fe2a46482
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+WARNING: [Backend]: You are using Proton, this can lead to some bugs,
+          please do not open issues with bugs related with games Proton - Proton-7.0rc6-GE-1
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   
+WARNING: [Backend]: GameMode not installed
+INFO: [Legendary]: Launch Command: PULSE_LATENCY_MSEC=60  DXVK_HUD=fps        STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/burak/.steam/steam STEAM_COMPAT_DATA_PATH='/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V'   /home/burak/.cache/appimage-run/86cd2c7d47233d3038c1dc1dd1f3c239c0430db3c65b0ffd0e5f6a7a5213ea99/resources/app.asar.unpacked/build/bin/linux/legendary launch 9d2d0eb64d5c44529cece33fe2a46482   --no-wine --wrapper "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton' run"   

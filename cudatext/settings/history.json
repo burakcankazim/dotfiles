@@ -1,0 +1,39 @@
+{
+  "pos" : {
+    "main_max" : false,
+    "main" : "1920,16,1916,1044",
+    "savetabs" : "0,0,891,350"
+  },
+  "show_sidepanel" : false,
+  "show_bottom" : false,
+  "float_side" : false,
+  "float_bottom" : false,
+  "size_side" : 200,
+  "size_bottom" : 120,
+  "tab_left" : "",
+  "recent_files" : [
+    "~/workspace/encom/amiralbatti/README.md",
+    "~/okul/README.md",
+    "~/Downloads/YigitTez/TEZ.md"
+  ],
+  "list_console" : [
+  ],
+  "finder" : {
+    "regex" : false,
+    "case" : false,
+    "words" : false,
+    "back" : false,
+    "confirm" : false,
+    "wrap" : false,
+    "insel" : false,
+    "tokens" : 0
+  },
+  "lang" : "",
+  "session" : "history session.json",
+  "last_cmd" : 2510,
+  "groups" : 3,
+  "gr" : {
+    "panel" : "10,30",
+    "pages" : "100,54,100,46,12,30,12,30,12,30,10,30,"
+  }
+}

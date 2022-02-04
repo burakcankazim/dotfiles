@@ -1,0 +1,58 @@
+{
+	"0584d2013f0149a791e7b9bad0eec102": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_1280x720_V04-1280x720-31e7e0e50fda38709553f5313027ba5b76bd10b6.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Rockstar Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Rockstar Games",
+			"description": "The Grand Theft Auto V: Premium Edition includes the complete Grand Theft Auto V story experience, free access to the ever evolving Grand Theft Auto Online and all existing gameplay upgrades and content including The Doomsday Heist, Gunrunning, Smuggler’s Run, Bikers and much more. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in Grand Theft Auto Online.\n\n# GRAND THEFT AUTO V\nWhen a young street hustler, a retired bank robber and a terrifying psychopath land themselves in trouble, they must pull off a series of dangerous heists to survive in a city in which they can trust nobody, least of all each other.\n\n# GRAND THEFT AUTO ONLINE\nDiscover an ever-evolving world of choices and ways to play as you climb the criminal ranks of Los Santos and Blaine County in the ultimate shared Online experience.\n\n# THE CRIMINAL ENTERPRISE STARTER PACK\nThe Criminal Enterprise Starter Pack is the fastest way for new GTA Online players to jumpstart their criminal empires with the most exciting and popular content plus $1,000,000 bonus cash to spend in GTA Online - all content valued at over GTA $10,000,000 if purchased separately.\n\n# LAUNCH YOUR CRIMINAL EMPIRE\nLaunch business ventures from your Maze Bank West Executive Office, research powerful weapons technology from your underground Gunrunning Bunker and use your Counterfeit Cash Factory to start a lucrative counterfeiting operation.\n\n# A FLEET OF POWERFUL VEHICLES\nTear through the streets with a range of 10 high performance vehicles including a Supercar, Motorcycles, the weaponized Dune FAV, a Helicopter, a Rally Car and more. You’ll also get properties including a 10 car garage to store your growing fleet.\n\n# WEAPONS, CLOTHING & TATTOOS\nYou’ll also get access to the Compact Grenade Launcher, Marksman Rifle and Compact Rifle along with Stunt Racing Outfits, Biker Tattoos and more.",
+			"shortDescription": "The Grand Theft Auto V: Premium Edition includes the complete GTAV story, Grand Theft Auto Online and all existing gameplay upgrades and content. You’ll also get the Criminal Enterprise Starter Pack, the fastest way to jumpstart your criminal empire in GTA Online.",
+			"title": "Grand Theft Auto V: Premium Edition ",
+			"developerLogo": {
+				"src": "https://cdn2.unrealengine.com/Diesel%2Fproductv2%2Fgrand-theft-auto-v%2Fhome%2FGTAV_EGS_Artwork_200x200_PublisherLogo-128x128-9f1e57af94bf2983d56393ec7aa80b6ae9c4f555.png",
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS ",
+				"minimum": "Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)",
+				"recommended": "Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz",
+				"recommended": "Intel Core i5 3470 @ 3.2GHZ (4 CPUs) / AMD X8 FX-8350 @ 4GHZ (8 CPUs)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4 GB RAM",
+				"recommended": "8 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Video Card",
+				"minimum": "NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)",
+				"recommended": "NVIDIA GTX 660 2GB / AMD HD7870 2GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Sound Card",
+				"minimum": "100% DirectX 10 compatible",
+				"recommended": "100% DirectX 10 compatible"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "HDD Space",
+				"minimum": "90 GB available space",
+				"recommended": "90 GB available space"
+			}
+		]
+	}
+}

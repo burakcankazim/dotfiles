@@ -1,0 +1,43 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080" x="300" y="300" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1874" height="401" />
+    <size key="find.popup.0.0.1920.1080" width="827" height="750" />
+    <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.0.bottom.1920.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.left.1920.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.center.1920.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.right.1920.0.1920.1080" width="1874" height="401" />
+    <size key="GridCell.Tab.1.bottom.1920.0.1920.1080" width="1874" height="401" />
+  </component>
+  <component name="WindowManager">
+    <frame x="1920" y="0" width="1920" height="1062" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="624" y="139" width="662" height="722" key="FileChooserDialogImpl" timestamp="1641978615468">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="139" width="662" height="722" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1641978615468" />
+    <state width="1037" height="122" key="ShowUsagesActions.dimensionServiceKey" timestamp="1642162136019">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1037" height="122" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080" timestamp="1642162136019" />
+  </component>
+</application>

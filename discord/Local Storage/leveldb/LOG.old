@@ -1,0 +1,20 @@
+2022/02/01-19:45:05.606 475b Reusing MANIFEST /home/burak/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/02/01-19:45:05.607 475b Recovering log #14
+2022/02/01-19:45:05.609 475b Level-0 table #17: started
+2022/02/01-19:45:05.612 475b Level-0 table #17: 16576 bytes OK
+2022/02/01-19:45:05.616 475b Delete type=0 #14
+2022/02/01-19:45:05.616 4768 Compacting 4@0 + 1@1 files
+2022/02/01-19:45:05.632 4768 Generated table #19@0: 55 keys, 173668 bytes
+2022/02/01-19:45:05.632 4768 Compacted 4@0 + 1@1 files => 173668 bytes
+2022/02/01-19:45:05.637 4768 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/02/01-19:45:05.642 4768 Delete type=2 #8
+2022/02/01-19:45:05.642 4768 Delete type=2 #10
+2022/02/01-19:45:05.642 4768 Delete type=2 #13
+2022/02/01-19:45:05.642 4768 Delete type=2 #15
+2022/02/01-19:45:05.642 4768 Delete type=2 #17
+2022/02/02-00:04:13.356 62fa Level-0 table #21: started
+2022/02/02-00:04:13.363 62fa Level-0 table #21: 14582 bytes OK
+2022/02/02-00:04:13.367 62fa Delete type=0 #18
+2022/02/02-00:46:13.354 62fa Level-0 table #23: started
+2022/02/02-00:46:13.394 62fa Level-0 table #23: 13452 bytes OK
+2022/02/02-00:46:13.398 62fa Delete type=0 #20

@@ -1,0 +1,212 @@
+11:01:34 PM.227: CPU Name: AMD Ryzen 7 5800HS with Radeon Graphics
+11:01:34 PM.227: CPU Speed: 1200.000MHz
+11:01:34 PM.228: Physical Cores: 8, Logical Cores: 16
+11:01:34 PM.228: Physical Memory: 15475MB Total, 5361MB Free
+11:01:34 PM.228: Kernel Version: Linux 5.15.12-hardened1
+11:01:34 PM.228: Distribution: NixOS "21.11"
+11:01:34 PM.228: Session Type: x11
+11:01:34 PM.228: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.13
+11:01:34 PM.229: Portable mode: false
+11:01:34 PM.319: OBS 27.0.1 (linux)
+11:01:34 PM.320: ---------------------------------
+11:01:34 PM.321: ---------------------------------
+11:01:34 PM.321: audio settings reset:
+11:01:34 PM.321: 	samples per sec: 48000
+11:01:34 PM.321: 	speakers:        2
+11:01:34 PM.335: ---------------------------------
+11:01:34 PM.335: Initializing OpenGL...
+11:01:34 PM.505: Loading up OpenGL on adapter AMD AMD RENOIR (DRM 3.42.0, 5.15.12-hardened1, LLVM 13.0.0)
+11:01:34 PM.506: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.2.5, shading language 4.60
+11:01:34 PM.657: ---------------------------------
+11:01:34 PM.657: video settings reset:
+11:01:34 PM.657: 	base resolution:   1920x1080
+11:01:34 PM.657: 	output resolution: 1280x720
+11:01:34 PM.657: 	downscale filter:  Bicubic
+11:01:34 PM.657: 	fps:               30/1
+11:01:34 PM.657: 	format:            NV12
+11:01:34 PM.657: 	YUV mode:          709/Partial
+11:01:34 PM.658: NV12 texture support not available
+11:01:34 PM.666: Audio monitoring device:
+11:01:34 PM.666: 	name: Default
+11:01:34 PM.666: 	id: default
+11:01:34 PM.666: ---------------------------------
+11:01:34 PM.669: Failed to load 'en-US' text for module: 'decklink-captions.so'
+11:01:34 PM.674: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+11:01:35 PM.120: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+11:01:35 PM.120: No blackmagic support
+11:01:35 PM.143: v4l2loopback not installed, virtual camera disabled
+11:01:35 PM.151: [obs-browser]: Version 2.14.3
+11:01:35 PM.151: [obs-browser]: CEF Version 90.6.7+g19ba721+chromium-90.0.4430.212
+11:01:35 PM.211: NVENC supported
+11:01:35 PM.211: FFMPEG VAAPI supported
+11:01:35 PM.257: VLC found, VLC video source enabled
+11:01:35 PM.257: ---------------------------------
+11:01:35 PM.257:   Loaded Modules:
+11:01:35 PM.257:     vlc-video.so
+11:01:35 PM.257:     text-freetype2.so
+11:01:35 PM.257:     rtmp-services.so
+11:01:35 PM.257:     obs-x264.so
+11:01:35 PM.257:     obs-vst.so
+11:01:35 PM.257:     obs-transitions.so
+11:01:35 PM.257:     obs-outputs.so
+11:01:35 PM.257:     obs-libfdk.so
+11:01:35 PM.257:     obs-filters.so
+11:01:35 PM.257:     obs-ffmpeg.so
+11:01:35 PM.257:     obs-browser.so
+11:01:35 PM.257:     linux-v4l2.so
+11:01:35 PM.257:     linux-pulseaudio.so
+11:01:35 PM.258:     linux-jack.so
+11:01:35 PM.258:     linux-decklink.so
+11:01:35 PM.258:     linux-capture.so
+11:01:35 PM.258:     linux-alsa.so
+11:01:35 PM.258:     image-source.so
+11:01:35 PM.258:     frontend-tools.so
+11:01:35 PM.258:     decklink-ouput-ui.so
+11:01:35 PM.258:     decklink-captions.so
+11:01:35 PM.258: ---------------------------------
+11:01:35 PM.258: ==== Startup complete ===============================================
+11:01:35 PM.265: No scene file found, creating default scene
+11:01:35 PM.266: All scene data cleared
+11:01:35 PM.266: ------------------------------------------------
+11:01:35 PM.274: Switched to scene 'Scene'
+11:01:35 PM.274: Failed to glob scene collections
+11:01:35 PM.939: [rtmp-services plugin] Successfully updated file 'services.json' (version 187)
+11:01:35 PM.939: [rtmp-services plugin] Successfully updated package (version 187)
+11:01:56 PM.404: 
+11:01:56 PM.404: ==== Auto-config wizard testing commencing ======
+
+11:01:58 PM.066: ---------------------------------
+11:01:58 PM.066: video settings reset:
+11:01:58 PM.066: 	base resolution:   1920x1080
+11:01:58 PM.066: 	output resolution: 1920x1080
+11:01:58 PM.066: 	downscale filter:  Bicubic
+11:01:58 PM.066: 	fps:               60/1
+11:01:58 PM.066: 	format:            NV12
+11:01:58 PM.066: 	YUV mode:          709/Partial
+11:01:58 PM.066: NV12 texture support not available
+11:01:58 PM.072: 
+11:01:58 PM.072: ==== Auto-config wizard testing stopping ========
+
+11:02:11 PM.209: Settings changed (outputs)
+11:02:11 PM.209: ------------------------------------------------
+11:02:27 PM.409: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+11:02:27 PM.500: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:02:27 PM.500: 	title: amiralbatti – pro3.py
+11:02:27 PM.500: 	class: jetbrains-pycharm-ce
+11:02:27 PM.500: 	Bit depth: 24
+11:02:27 PM.500: 	Found proper GLXFBConfig (in 368): yes
+11:02:27 PM.500: 
+11:02:27 PM.925: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:02:27 PM.925: 	title: amiralbatti – pro3.py
+11:02:27 PM.925: 	class: jetbrains-pycharm-ce
+11:02:27 PM.925: 	Bit depth: 24
+11:02:27 PM.925: 	Found proper GLXFBConfig (in 368): yes
+11:02:27 PM.925: 
+11:02:56 PM.065: User Removed source 'Window Capture (Xcomposite)' (xcomposite_input) from scene 'Scene'
+11:03:00 PM.201: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+11:03:00 PM.242: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:03:00 PM.242: 	title: amiralbatti – pro3.py
+11:03:00 PM.242: 	class: jetbrains-pycharm-ce
+11:03:00 PM.242: 	Bit depth: 24
+11:03:00 PM.242: 	Found proper GLXFBConfig (in 368): yes
+11:03:00 PM.242: 
+11:03:00 PM.760: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:03:00 PM.760: 	title: amiralbatti – pro3.py
+11:03:00 PM.760: 	class: jetbrains-pycharm-ce
+11:03:00 PM.760: 	Bit depth: 24
+11:03:00 PM.760: 	Found proper GLXFBConfig (in 368): yes
+11:03:00 PM.760: 
+11:03:02 PM.959: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:03:02 PM.959: 	title: Alacritty
+11:03:02 PM.959: 	class: Alacritty
+11:03:02 PM.959: 	Bit depth: 32
+11:03:02 PM.959: 	Found proper GLXFBConfig (in 368): yes
+11:03:02 PM.959: 
+11:03:03 PM.441: xcompcap: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+11:03:03 PM.441: 	title: Alacritty
+11:03:03 PM.441: 	class: Alacritty
+11:03:03 PM.441: 	Bit depth: 32
+11:03:03 PM.441: 	Found proper GLXFBConfig (in 368): yes
+11:03:03 PM.441: 
+11:03:23 PM.621: ---------------------------------
+11:03:23 PM.621: [NVENC encoder: 'simple_h264_recording'] settings:
+11:03:23 PM.621: 	rate_control: CQP
+11:03:23 PM.621: 	bitrate:      0
+11:03:23 PM.621: 	cqp:          23
+11:03:23 PM.621: 	keyint:       250
+11:03:23 PM.621: 	preset:       hq
+11:03:23 PM.621: 	profile:      high
+11:03:23 PM.621: 	width:        1920
+11:03:23 PM.621: 	height:       1080
+11:03:23 PM.621: 	2-pass:       false
+11:03:23 PM.621: 	b-frames:     2
+11:03:23 PM.621: 	psycho-aq:    1
+11:03:23 PM.621: 	GPU:          0
+11:03:23 PM.621: 
+11:03:23 PM.966: libfdk_aac encoder created
+11:03:23 PM.966: libfdk_aac bitrate: 192, channels: 2
+11:03:24 PM.038: ==== Recording Start ===============================================
+11:03:24 PM.038: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/burak/2022-01-23 23-03-23.mkv'...
+11:03:38 PM.713: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/burak/2022-01-23 23-03-23.mkv' stopped
+11:03:38 PM.713: Output 'simple_file_output': stopping
+11:03:38 PM.713: Output 'simple_file_output': Total frames output: 871
+11:03:38 PM.713: Output 'simple_file_output': Total drawn frames: 880
+11:03:38 PM.714: ==== Recording Stop ================================================
+11:03:38 PM.827: libfdk_aac encoder destroyed
+11:03:51 PM.297: ---------------------------------
+11:03:51 PM.297: [NVENC encoder: 'simple_h264_recording'] settings:
+11:03:51 PM.297: 	rate_control: CQP
+11:03:51 PM.297: 	bitrate:      0
+11:03:51 PM.297: 	cqp:          23
+11:03:51 PM.297: 	keyint:       250
+11:03:51 PM.297: 	preset:       hq
+11:03:51 PM.297: 	profile:      high
+11:03:51 PM.297: 	width:        1920
+11:03:51 PM.297: 	height:       1080
+11:03:51 PM.297: 	2-pass:       false
+11:03:51 PM.297: 	b-frames:     2
+11:03:51 PM.297: 	psycho-aq:    1
+11:03:51 PM.297: 	GPU:          0
+11:03:51 PM.297: 
+11:03:51 PM.541: libfdk_aac encoder created
+11:03:51 PM.541: libfdk_aac bitrate: 192, channels: 2
+11:03:51 PM.545: ==== Recording Start ===============================================
+11:03:51 PM.545: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/burak/2022-01-23 23-03-51.mkv'...
+11:04:06 PM.000: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/burak/2022-01-23 23-03-51.mkv' stopped
+11:04:06 PM.000: Output 'simple_file_output': stopping
+11:04:06 PM.000: Output 'simple_file_output': Total frames output: 854
+11:04:06 PM.001: Output 'simple_file_output': Total drawn frames: 865 (867 attempted)
+11:04:06 PM.001: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 2 (0.2%)
+11:04:06 PM.001: ==== Recording Stop ================================================
+11:04:06 PM.118: libfdk_aac encoder destroyed
+11:04:11 PM.798: ---------------------------------
+11:04:11 PM.798: [NVENC encoder: 'simple_h264_recording'] settings:
+11:04:11 PM.798: 	rate_control: CQP
+11:04:11 PM.798: 	bitrate:      0
+11:04:11 PM.798: 	cqp:          23
+11:04:11 PM.798: 	keyint:       250
+11:04:11 PM.798: 	preset:       hq
+11:04:11 PM.798: 	profile:      high
+11:04:11 PM.798: 	width:        1920
+11:04:11 PM.798: 	height:       1080
+11:04:11 PM.798: 	2-pass:       false
+11:04:11 PM.798: 	b-frames:     2
+11:04:11 PM.798: 	psycho-aq:    1
+11:04:11 PM.798: 	GPU:          0
+11:04:11 PM.798: 
+11:04:12 PM.046: libfdk_aac encoder created
+11:04:12 PM.046: libfdk_aac bitrate: 192, channels: 2
+11:04:12 PM.050: ==== Recording Start ===============================================
+11:04:12 PM.050: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/burak/2022-01-23 23-04-11.mkv'...
+11:07:45 PM.748: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/burak/2022-01-23 23-04-11.mkv' stopped
+11:07:45 PM.748: Output 'simple_file_output': stopping
+11:07:45 PM.748: Output 'simple_file_output': Total frames output: 12810
+11:07:45 PM.748: Output 'simple_file_output': Total drawn frames: 12822
+11:07:45 PM.749: ==== Recording Stop ================================================
+11:07:45 PM.859: libfdk_aac encoder destroyed
+12:08:49 AM.181: ==== Shutting down ==================================================
+12:08:49 AM.187: All scene data cleared
+12:08:49 AM.187: ------------------------------------------------
+12:08:49 AM.198: Failed to fetch parent window geometry!
+12:08:49 AM.205: Failed to fetch parent window geometry!
+12:08:49 AM.210: Failed to fetch parent window geometry!

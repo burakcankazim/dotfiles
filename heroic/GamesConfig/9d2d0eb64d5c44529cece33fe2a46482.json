@@ -1,0 +1,29 @@
+{
+  "9d2d0eb64d5c44529cece33fe2a46482": {
+    "audioFix": true,
+    "autoInstallDxvk": true,
+    "autoSyncSaves": false,
+    "enableEsync": false,
+    "enableFSR": false,
+    "enableFsync": false,
+    "maxSharpness": 2,
+    "enableResizableBar": false,
+    "launcherArgs": "",
+    "nvidiaPrime": false,
+    "offlineMode": false,
+    "otherOptions": "",
+    "savesPath": "",
+    "showFps": true,
+    "showMangohud": false,
+    "targetExe": "",
+    "useGameMode": false,
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/burak/Games/Heroic/Prefixes/Grand-Theft-Auto-V",
+    "wineVersion": {
+      "bin": "'/home/burak/.steam/root/compatibilitytools.d/Proton-7.0rc6-GE-1/proton'",
+      "name": "Proton - Proton-7.0rc6-GE-1"
+    }
+  },
+  "version": "v0",
+  "explicit": true
+}

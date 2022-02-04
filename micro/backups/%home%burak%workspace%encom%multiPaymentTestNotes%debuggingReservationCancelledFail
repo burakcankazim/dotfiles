@@ -1,0 +1,20 @@
+For the first SubscriptionRenewalAttempted
+	Saga Id:9918
+	Subscription Id: d4...56
+	when: 118616Z
+	reservationId: 35...ec
+
+Second:
+	Saga Id: 9918
+	Subscription Id: d4...56
+	when: 123725Z
+	reservationId:5f...ec
+
+Ayni sagada calisiyorlar bu yuzden ilki canceli atamadan digeri reservationIdyi 
+degistiriyor. Ilk attempt ikinci reservationu commit ediyor. Ikinci attempt de ikinci
+reservationu cancel etmeye calisiyor ama oyle bir reservation yok o yuzden, reservedda kaliyor
+
+AccountReserved first:
+	reserveId: adb68130-74be-11ec-b737-15472d5a792b
+second:
+	reserveId: adb807d0-74be-11ec-b737-15472d5a792b

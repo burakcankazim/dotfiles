@@ -1,0 +1,74 @@
+conky.config = {
+	out_to_x = false,
+	own_window = false,
+	out_to_console = true,
+	background = false,
+	max_text_width = 0,
+
+-- Update interval in seconds
+	update_interval = 3.0,
+
+-- This is the number of times Conky will update before quitting.
+-- Set to zero to run forever.
+	total_run_times = 0,
+
+-- Shortens units to a single character (kiB->k, GiB->G, etc.). Default is off.
+	short_units = true,
+
+-- How strict should if_up be when testing an interface for being up?
+-- The value is one of up, link or address, to check for the interface
+-- being solely up, being up and having link or being up, having link
+-- and an assigned IP address. 
+	if_up_strictness = 'address',
+
+-- Add spaces to keep things from moving about?  This only affects certain objects.
+-- use_spacer should have an argument of left, right, or none
+	use_spacer = 'left',
+
+-- Force UTF8? note that UTF8 support required XFT
+	override_utf8_locale = false,
+
+-- number of cpu samples to average
+-- set to 1 to disable averaging
+	cpu_avg_samples = 3,
+
+-- Stuff after 'TEXT' will be formatted on screen
+};
+
+conky.text = [[
+
+# JSON for i3bar
+
+[
+{ "full_text" : "Home ${fs_used /home} / ${fs_free /home} " , "color" : "\#bbbbbb" },
+{ "full_text" : "Scratch ${fs_used /scratch} / ${fs_free /scratch} " , "color" : "\#bbbbbb" },
+{ "full_text" : " $uptime_short " , "color" : "\#bbbbbb" },
+{ "full_text" : " RAM ${mem} " , "color" : ${if_match ${memperc}<90}"\#bbbbbb"${else}"\#ff0000"${endif} },
+{ "full_text" : "  ${loadavg 1} " , "color" : "\#bbbbbb" },
+{ "full_text" : "  ${diskio /dev/sda} " , "color" : "\#bbbbbb" },
+{ "full_text" : " 𝌃 ${upspeed enp0s20u1} ${downspeed enp0s20u1}" , "color" : "\#ffffff" },
+{ "full_text" : "  ${upspeed wlp2s0} ${downspeed wlp2s0}" , "color" : "\#ffffff" },
+{"full_text":"","color":"\#F1E214","separator":false,"separator_block_width":6},\
+{"full_text":"${if_match ${hwmon 0 temp 1}<40}${hwmon 0 temp 1} °C ","color":"\#18F114","separator":true,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${hwmon 0 temp 1}<60}${hwmon 0 temp 1} °C ","color":"\#F1E214","separator":true,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${if_match ${hwmon 0 temp 1}>=60}${hwmon 0 temp 1} °C ","color":"\#F50612","separator":true,"separator_block_width":6},\
+{"full_text":"${else}"},\
+{"full_text":"${endif}${endif}${endif}"},
+${if_existing /sys/class/power_supply/AC/online 0}
+        {"full_text": " ","color":"\"859900","separator":false,"separator_block_width":6},\
+        {"full_text": "${if_match ${battery_percent}<20} ${battery_percent}%","color":"\#dc322f"},\
+        {"full_text":"${else}"},\
+        {"full_text":"${if_match ${battery_percent}<50} ${battery_percent}%","color":"\#b58900"},\
+        {"full_text":"${else}"},\
+        {"full_text":"${if_match ${battery_percent}<75} ${battery_percent}%","color":"\#66b266"},\
+        {"full_text":"${else}"},\
+        {"full_text": " ${battery_percent}%","color":"\#66b266"},\
+        {"full_text":"${endif}${endif}${endif}"},
+${else}
+        {"full_text": "  ${battery_percent}% ","color":"\#66b266"},
+${endif}
+{ "full_text" : " ${time %a, %d %b %H:%M} " , "color" : "\#ffffff" }
+],
+]];
